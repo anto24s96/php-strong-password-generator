@@ -53,7 +53,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-6">
+            <div class="col-12">
                 <div>
                     <h2 class="text-white py-4">La tua password è: <span class="text-danger"><?php echo $pass ?? '' ?></span></h2>
                 </div>
